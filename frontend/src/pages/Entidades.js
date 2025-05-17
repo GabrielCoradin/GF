@@ -25,7 +25,8 @@ import {
   TablePagination,
   Snackbar,
   Alert,
-  CircularProgress
+  CircularProgress,
+  Box
 } from '@mui/material';
 import { Add as AddIcon, Edit as EditIcon, Delete as DeleteIcon, Search as SearchIcon } from '@mui/icons-material';
 import axios from 'axios';
